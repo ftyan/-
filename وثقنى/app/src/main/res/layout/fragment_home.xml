@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/container">
+
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn1"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_1"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn2"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_2"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn3"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"
+                />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_3"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn4"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_4"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn5"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_5"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn6"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_6"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn7"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_7"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn8"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_8"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn9"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_9"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn10"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_10"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+            android:id="@+id/button11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wbtn11"
+            android:background="@drawable/round1"
+            android:layout_margin="5dp" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_11"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+            android:id="@+id/button12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wbtn12"
+            android:background="@drawable/round1"
+             android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_12"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+            android:id="@+id/button13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wbtn13"
+            android:background="@drawable/round1"
+            android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_13"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+            android:id="@+id/button14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wbtn14"
+            android:background="@drawable/round1"
+             android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_14"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+            android:id="@+id/button15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wbtn15"
+            android:background="@drawable/round1"
+            android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_15"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+            android:id="@+id/button16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/wbtn16"
+            android:background="@drawable/round1"
+            android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_16"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn17"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"
+                />
+
+            <TextView
+                android:id="@+id/textView17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_17"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn18"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_18"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn19"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_19"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn20"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_20"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn21"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_21"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn22"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_22"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+
+            <Button
+                android:id="@+id/button23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn23"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView23"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_23"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn24"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView24"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_24"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn25"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_25"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/button26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/wbtn26"
+                android:background="@drawable/round1"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:id="@+id/textView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/text_26"
+                android:visibility="gone"
+                android:background="@drawable/round2"
+                android:layout_margin="5dp"/>
+
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>
